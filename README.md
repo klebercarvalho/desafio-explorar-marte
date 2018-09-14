@@ -18,4 +18,8 @@ Para controlar as sondas, a NASA envia uma simples sequência de letras. As letr
 Nesta malha o ponto ao norte de (x,y) é sempre (x, y+1).
 
 
-1) Desenvolver o algoritmo em node.js
+1) Desenvolver o algoritmo, e implementar em node.js
+2) Fazer BDD / TDD, e implententar testes usanod Chai (assertation library) e Mocha (test runner)
+3) Fron-end usando Vue
+4) Utilizar Docker
+
