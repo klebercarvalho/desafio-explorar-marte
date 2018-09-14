@@ -19,7 +19,7 @@ Nesta malha o ponto ao norte de (x,y) é sempre (x, y+1).
 
 
 - Desenvolver o algoritmo, e implementar em node.js
-  - Finalizado https://github.com/klebercarvalho/desafio-explorar-marte/
+  - Finalizado https://github.com/klebercarvalho/explorar-marte-nodejs-cli
 - Fazer BDD / TDD, e implententar testes usanod Chai (assertation library) e Mocha (test runner)
   - Terminar até 17/09 - segunda
 - Fron-end usando Vue
