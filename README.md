@@ -18,8 +18,12 @@ Para controlar as sondas, a NASA envia uma simples sequência de letras. As letr
 Nesta malha o ponto ao norte de (x,y) é sempre (x, y+1).
 
 
-1) Desenvolver o algoritmo, e implementar em node.js
-2) Fazer BDD / TDD, e implententar testes usanod Chai (assertation library) e Mocha (test runner)
-3) Fron-end usando Vue
+- Desenvolver o algoritmo, e implementar em node.js
+  - Finalizado https://github.com/klebercarvalho/desafio-explorar-marte/
+- Fazer BDD / TDD, e implententar testes usanod Chai (assertation library) e Mocha (test runner)
+  - Terminar até 17/09
+- Fron-end usando Vue
+  - Terminar até 20/09
 4) Utilizar Docker
+  - Terminar até 24/09
 
