@@ -24,6 +24,6 @@ Nesta malha o ponto ao norte de (x,y) é sempre (x, y+1).
   - Terminar até 17/09
 - Fron-end usando Vue
   - Terminar até 20/09
-4) Utilizar Docker
+- Utilizar Docker
   - Terminar até 24/09
 
