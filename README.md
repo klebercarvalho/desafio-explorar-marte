@@ -17,7 +17,7 @@ Para controlar as sondas, a NASA envia uma simples sequência de letras. As letr
 
 Nesta malha o ponto ao norte de (x,y) é sempre (x, y+1).
 
-
+#### Agenda
 - Desenvolver o algoritmo, e implementar em node.js
   - Finalizado https://github.com/klebercarvalho/explorar-marte-nodejs-cli
 - Fazer BDD / TDD, e implententar testes usanod Chai (assertation library) e Mocha (test runner)
