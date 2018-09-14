@@ -16,3 +16,6 @@ O planalto é dividido numa malha para simplificar a navegação. Um exemplo de 
 Para controlar as sondas, a NASA envia uma simples sequência de letras. As letras possíveis são "L", "R" e "M". Destas, "L" e "R" fazem a sonda virar 90 graus para a esquerda ou direita, respectivamente, sem mover a sonda. "M" faz com que a sonda mova-se para a frente um ponto da malha, mantendo a mesma direção.
 
 Nesta malha o ponto ao norte de (x,y) é sempre (x, y+1).
+
+
+1) Desenvolver o algoritmo em node.js
